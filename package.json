@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    
+    "jest": "^29.2.1"
+  },
+  "scripts": {
+    "test": "jest --json --outputFile=results.json"
+  }
+}
